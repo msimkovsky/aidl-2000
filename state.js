@@ -1,9 +1,9 @@
 // AIDL 2000 – stav městečka. Claude ho přepisuje podle Miro nástěnky AIDL S05.
 // stage: volba | jedu | zpomaluju | stojim | oponentura | hotovo
 window.AIDL_STATE = {
-  updated: "15:54",
+  updated: "15:55",
   parcels: [
-    { id: "pavelm", name: "Pavel M.", project: "Card sorting pro klienty", stage: "oponentura" },
+    { id: "pavelm", name: "Pavel M.", project: "Card sorting pro klienty", stage: "hotovo" },
     { id: "tereza", name: "Tereza", project: "Bezpečné cyklostezky", stage: "oponentura" },
     { id: "pavelg", name: "Pavel G.", project: "Kalkulačka ceny webu", stage: "hotovo" },
     { id: "aneta", name: "Aneta", project: "Rozhodnutí z callů", stage: "oponentura" },
@@ -17,7 +17,7 @@ window.AIDL_STATE = {
     "Stavební úřad HoŘ vydal 7 povolení",
     "David dostavěl přístavní manévry, jachta zaparkovala u mola",
     "Tereza hledá bezpečné cyklostezky, ne cyklotrasy",
-    "Pavel M. třídí karty a v adminu mu radí agent",
+    "Pavel M. kolauduje card sorting, karty jsou srovnané",
     "Daniel barví týden: zelená volno, červená přetížený",
     "Tomáš staví grafy, které vysvětlí, proč jsou to zrovna tyhle grafy",
     "Pavel G. počítá, kolik stojí web",
