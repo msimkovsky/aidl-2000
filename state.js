@@ -1,15 +1,15 @@
 // AIDL 2000 – stav městečka. Claude ho přepisuje podle Miro nástěnky AIDL S05.
 // stage: volba | jedu | zpomaluju | stojim | oponentura | hotovo
 window.AIDL_STATE = {
-  updated: "15:19",
+  updated: "15:25",
   parcels: [
-    { id: "pavelm", name: "Pavel M.", project: "Card sorting pro klienty", stage: "jedu" },
-    { id: "tereza", name: "Tereza", project: "Bezpečné cyklostezky", stage: "jedu" },
-    { id: "pavelg", name: "Pavel G.", project: "Kalkulačka ceny webu", stage: "jedu" },
-    { id: "aneta", name: "Aneta", project: "Rozhodnutí z callů", stage: "jedu" },
-    { id: "daniel", name: "Daniel", project: "Týdenní plán týmu", stage: "jedu" },
-    { id: "tomas", name: "Tomáš", project: "Grafy z markdownu", stage: "jedu" },
-    { id: "david", name: "David", project: "Kvíz přístavních manévrů", stage: "volba" }
+    { id: "pavelm", name: "Pavel M.", project: "Card sorting pro klienty", stage: "oponentura" },
+    { id: "tereza", name: "Tereza", project: "Bezpečné cyklostezky", stage: "oponentura" },
+    { id: "pavelg", name: "Pavel G.", project: "Kalkulačka ceny webu", stage: "oponentura" },
+    { id: "aneta", name: "Aneta", project: "Rozhodnutí z callů", stage: "oponentura" },
+    { id: "daniel", name: "Daniel", project: "Týdenní plán týmu", stage: "oponentura" },
+    { id: "tomas", name: "Tomáš", project: "Grafy z markdownu", stage: "oponentura" },
+    { id: "david", name: "David", project: "Kvíz přístavních manévrů", stage: "oponentura" }
   ],
   ticker: [
     "Stavební úřad HoŘ vydal 7 povolení",
