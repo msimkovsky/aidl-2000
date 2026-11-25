@@ -1,14 +1,14 @@
 // AIDL 2000 – stav městečka. Claude ho přepisuje podle Miro nástěnky AIDL S05.
 // stage: volba | jedu | zpomaluju | stojim | oponentura | hotovo
 window.AIDL_STATE = {
-  updated: "14:43",
+  updated: "14:49",
   parcels: [
     { id: "pavelm", name: "Pavel M.", project: "Card sorting pro klienty", stage: "volba" },
     { id: "tereza", name: "Tereza", project: "Bezpečné cyklostezky", stage: "volba" },
     { id: "pavelg", name: "Pavel G.", project: "Kalkulačka ceny webu", stage: "volba" },
     { id: "aneta", name: "Aneta", project: "Rozhodnutí z callů", stage: "volba" },
     { id: "daniel", name: "Daniel", project: "Týdenní plán týmu", stage: "volba" },
-    { id: "tomas", name: "Tomáš", project: "Grafy z markdownu", stage: "volba" },
+    { id: "tomas", name: "Tomáš", project: "Grafy z markdownu", stage: "jedu" },
     { id: "david", name: "David", project: "Kvíz přístavních manévrů", stage: "volba" }
   ],
   ticker: [
